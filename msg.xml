@@ -1,0 +1,7 @@
+<reg>
+    <emptyUsername>Empty username.</emptyUsername>
+    <placeNotMathed>Country, state or city aren`t matched.</placeNotMathed>
+    <shortPass>Too short pass.</shortPass>
+    <userExists>User exists.</userExists>
+    <success>Successful</success>
+</reg>
